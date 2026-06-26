@@ -24,7 +24,7 @@ Runs used:
 ## Results
 The CSP + LDA model achieved approximately 88.9% mean cross-validation accuracy
 
-##Figures
+## Figures
 
 ![Raw EEG](figures/raw_eeg_subject1.png)
 
