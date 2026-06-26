@@ -50,9 +50,6 @@ This result suggests that the EEG recordings contain discriminative patterns bet
 ### Confusion Matrix 
 ![Confusion Matrix](figures/confusion_matrix.png)
 
-### CSP Spatial Patterns
-![CSP Patterns](figures/csp_patterns.png)
-
 ## Project Structure 
 
 ```text
